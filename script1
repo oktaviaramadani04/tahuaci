@@ -1,0 +1,9 @@
+Welcome to Cloud Shell! Type 'help' to get started. Your Cloud Platform project in this session is set to stellar-psyche-444304-03. Use "geloud config set project [PROJECT ID)" 
+to change to a different project. 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ pwd
+/home/jungkooktavia2020 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ nano hello.sh
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ chmod +x hello.sh 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)8/hello.sh 
+hello world 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-03)8i
