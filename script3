@@ -1,0 +1,11 @@
+Welcome to Cloud Shell! Type "help" to get started. Your Cloud Platform project in this session is set to stellar-psyche-444304-c3. Use "gcloud config set project [PROJECT ID]" 
+to change to a different project. 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ nano latihan2.sh
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ cat latihan2.sh 
+#!/bin/bash 
+echo "Oktavia ramadani echo 2402066" 
+echo 'saya_login.sebagai.siapa "Oktavia"
+echo "Oktavia Ramadani" 
+echo 2402066 
+echo "Oktavia"
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$
