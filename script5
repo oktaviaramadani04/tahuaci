@@ -1,0 +1,11 @@
+Welcome to Cloud Shell! Type "help" to get started. Your Cloud Platform project in this session is set to stellar-psyche-444304-03. Use "gcloud config set project [PROJECT ID]" 
+to change to a different project. jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ nano latihan4.sh 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ cat latihan4.sh 
+#!/bin/bash echo "script untuk menerima input, penjumlahan dan perkalian' 
+echo "======================"
+echo "13:" read x 
+echo "7: read y 
+jmlh expr tx ty kali
+expr tx ty 
+echo "hasil penjumlahan tx ty jmih echo "hasil perkalian tx ty kali
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-03)8 011110111
