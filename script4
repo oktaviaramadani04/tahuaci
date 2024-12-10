@@ -1,0 +1,16 @@
+Welcome to Cloud Shell! Type 'help' to get started. Your Cloud Platform project in this session is set to stellar-psyche-444304-c3. Use "gcloud config set project [PROJECT_ID] 
+to change to a different project.
+jungkooktavia2020@cloudshell:" (stellar-psyche-444304-03)8 latihan3.sh
+-bash: latihan3.sh: command not found 
+jungkooktavia2020@cloudshell:" (stellar-psyche-444304-03)$ nano latihan3.sh jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ 
+jungkooktavia2020@cloudshell:" (stellar-psyche-444304-c3)$ cat latihan3.sh cat: latihan3.sh:
+No such file or directory jungkooktavia2020@cloudshell:" (stellar-psyche-444304-03)$ nano latihan).sh
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ cat latihan3.sh 
+#!/bin/bash 
+echo 'script untuk menerima input" 
+echo "====================="
+echo "Oktavia Ramadani" read nama 
+echo "====================="
+echo "menyanyi:"
+ read hobi 
+echo "hobi saya adalah:" Hobi jungkooktavia2020@cloudshell: (stellar-psyche-444304-03)5
