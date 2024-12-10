@@ -1,0 +1,11 @@
+Welcome to Cloud Shell! Type "help" to get started. Your Cloud Platform project in this session is set to stellar-psyche-444304-c3. Use "gcloud config set project [PROJECT ID]" 
+to change to a different project.
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ nano latihanl.sh 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)$ cat latihanl.sh 
+#!/bin/bash echo "Buat direktori latihan script dan file coba" 
+echo "=============================="
+mkdir 
+latihanscript cd 
+latihanscript/ 
+touch coba 
+jungkooktavia2020@cloudshell: (stellar-psyche-444304-c3)8
